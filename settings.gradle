@@ -1,0 +1,6 @@
+rootProject.name = 'EmployeeManagement'
+include 'core'
+include 'data'
+include 'logging'
+include 'app'
+
